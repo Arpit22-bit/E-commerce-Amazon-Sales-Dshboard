@@ -1,5 +1,2 @@
 # E-commerce-Amazon-Sales-Dshboard
-• Designed an interactive Amazon Sales Dashboard using Power BI to visualize key sales metrics and trends. • Integrated multiple data sources to analyze revenue, profit, customer behavior, and product performance.
-• Implemented dynamic filters, slicers, and drill-through reports for an enhanced user experience.
-• Utilized DAX measures and Power Query transformations to clean, process, and analyze data efficiently.
-• Optimized dashboard performance for real-time insights and business decision-making.
+This Amazon Sales Dashboard is a dynamic and interactive Power BI report designed to analyze key sales performance metrics. It provides insights into revenue trends, profit margins, customer behavior, and product performance using visually appealing charts and KPIs. The dashboard integrates multiple data sources, ensuring accurate and real-time data representation. With the use of DAX measures and Power Query transformations, the dataset is efficiently processed for better decision-making. Interactive filters, slicers, and drill-through functionalities allow users to explore sales data in depth, making it an essential tool for business intelligence and performance analysis.
