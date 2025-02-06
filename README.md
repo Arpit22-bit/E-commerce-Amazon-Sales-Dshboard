@@ -2,11 +2,11 @@
 This Amazon Sales Dashboard is a dynamic and interactive Power BI report designed to analyze key sales performance metrics. It provides insights into revenue trends, profit margins, customer behavior, and product performance using visually appealing charts and KPIs. The dashboard integrates multiple data sources, ensuring accurate and real-time data representation. With the use of DAX measures and Power Query transformations, the dataset is efficiently processed for better decision-making. 
 
 # Key KPIs Used:
-Total Sales & Profit
-Total Orders & Quantity Sold
-Average Discount Percentage
-Customer & Product Segmentation
-Top-Selling Products & Categories
+* Total Sales & Profit
+* Total Orders & Quantity Sold
+* Average Discount Percentage
+* Customer & Product Segmentation
+* Top-Selling Products & Categories
 
 # Insights & Objectives:
 Identify high-revenue and low-performing products.
