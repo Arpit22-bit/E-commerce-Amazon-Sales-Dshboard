@@ -9,11 +9,11 @@ This Amazon Sales Dashboard is a dynamic and interactive Power BI report designe
 * Top-Selling Products & Categories
 
 # Insights & Objectives:
-Identify high-revenue and low-performing products.
-Understand customer purchasing patterns across regions.
-Analyze discount impact on sales and profitability.
-Evaluate top-selling brands and categories.
-Track performance trends over time for strategic planning.
+* Identify high-revenue and low-performing products.
+* Understand customer purchasing patterns across regions.
+* Analyze discount impact on sales and profitability.
+* Evaluate top-selling brands and categories.
+* Track performance trends over time for strategic planning.
 
 # Conclusion
 This dynamic Power BI dashboard provides a comprehensive analysis of Amazon sales data, enabling data-driven decision-making. It offers deep insights into sales trends, customer behavior, and profitability across various regions and categories.
